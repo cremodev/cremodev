@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/cremodev">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cremodev&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cremodev&layout=compact&langs_count=16&theme=material-palenight"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=cremodev&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cremodev&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
  ## 
